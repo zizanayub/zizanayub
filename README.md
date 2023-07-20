@@ -5,3 +5,7 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast. I 
 #### Zizan's GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizanayub)](https://github.com/anuraghazra/github-readme-stats)
 
+
+#### Zizan's Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizanayub)](https://github.com/anuraghazra/github-readme-stats)
+
