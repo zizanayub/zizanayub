@@ -10,7 +10,5 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast. I 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizanayub)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Wakatime Stats
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zizanayub)](https://github.com/anuraghazra/github-readme-stats)
 
 
