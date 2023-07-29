@@ -14,5 +14,5 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast. I 
 <!--END_SECTION:waka-->
 
 
-
+<img src="https://wakatime.com/share/@6acd7fdc-111c-4b70-b76c-404df5e66b65/11834780-8b44-4314-8f97-bc37d7657198.svg">
 
