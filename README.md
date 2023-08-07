@@ -12,7 +12,7 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast, re
 
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/zizanayub/zizanayub/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
 Example:
