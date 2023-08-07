@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast, really passionate about driving business transformation through data. I love to do various real-life based data science projects which generate various insights for the growth of product development and business profitability. With a proven track record in data analytics and customer behavior analysis with proficiency in SQL and Python, I'm committed to articulating value to gain best outcomes in any assignment or project. 
+Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast, really passionate about driving business transformation through data. I love to do various real-life based data science projects which generate various insights for the growth of product development and business profitability. With a proven track record in data analytics and customer behavior analysis with proficiency in SQL and Python, I'm committed to articulating value to gain best outcomes in any assignment or project.  
 
 ### Zizan's GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizanayub&show_icons=true&theme=highcontrast)
