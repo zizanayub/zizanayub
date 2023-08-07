@@ -13,13 +13,9 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast, re
 
 <img
   src="https://github.com/zizanayub/zizanayub/blob/main/images/stat.svg"
-  alt="Alternative Text"
+  alt="Zizan's Wakatime Activity"
 />
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+
 
 ### Skills
 - Database Management, SQL(MySQL)
