@@ -7,11 +7,11 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast. I 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zizanayub&theme=highcontrast)](https://git.io/streak-stats)
 
-#### Zizan's Top Languages
+### Zizan's Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizanayub&layout=donut&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Skills
+### Skills
 - Database Management, SQL(MySQL)
 - Python (Pandas, NumPy)
 - C++ (Object Oriented Programming)
