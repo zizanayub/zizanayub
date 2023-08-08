@@ -11,12 +11,6 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast, re
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizanayub&layout=donut&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img
-  src="https://github.com/zizanayub/zizanayub/blob/main/images/stat.svg"
-  alt="Zizan's Wakatime Activity"
-/>
-
-
 ### Skills
 - Database Management, SQL(MySQL)
 - Python (Pandas, NumPy)
