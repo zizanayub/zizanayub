@@ -25,4 +25,4 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast, re
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zizanayub)](https://github.com/ryo-ma/github-profile-trophy&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zizanayub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
