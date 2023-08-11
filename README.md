@@ -23,3 +23,6 @@ Hi I am Zizan Ayub Al-Khalil, a Data Science and Machine Learning enthusiast, re
 - Practicing SQL daily on Stratascratch, HackerRank, Leetcode, etc.
 - Doing real-life data analysis and visualization projects on Power BI.
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zizanayub)](https://github.com/ryo-ma/github-profile-trophy&theme=darkhub)
